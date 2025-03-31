@@ -1,0 +1,2 @@
+C:/Test/photodiary/android/app/.cxx/Debug/2c5t6s5f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Test/photodiary/android/app/.cxx/Debug/2c5t6s5f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

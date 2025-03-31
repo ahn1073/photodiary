@@ -1,0 +1,2 @@
+C:/Test/photodiary/android/app/.cxx/Debug/w5012pg3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Test/photodiary/android/app/.cxx/Debug/w5012pg3/arm64-v8a/CMakeFiles/rebuild_cache.dir

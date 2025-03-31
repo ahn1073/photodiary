@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939403310007",
+    "project_id": "photodiary-5d8a2",
+    "storage_bucket": "photodiary-5d8a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939403310007:android:4a9aa46e912f00c4816e32",
+        "android_client_info": {
+          "package_name": "com.example.photodiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdegaSaC_9uF5EY24o4XycEvTR9wYXDis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
